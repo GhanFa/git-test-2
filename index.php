@@ -9,5 +9,12 @@
 <body>
     <h1>hello world</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est nam accusamus repellat, soluta impedit vero doloribus ipsa pariatur earum corrupti aut culpa amet in libero adipisci voluptates? Eos, suscipit asperiores?</p>
+    <ul>
+        <li class="nomor1">nomor1</li>
+        <li class="nomor2">nomor2</li>
+        <li class="nomor3">nomor3</li>
+        <li class="nomor4">nomor4</li>
+        <li class="nomor5">nomor5</li>
+    </ul>
 </body>
 </html>
